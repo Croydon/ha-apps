@@ -1,6 +1,6 @@
-# Croydon's Home Assistant Add-ons
+# Croydon's Home Assistant Apps
 
-[![Add this repository to your Home Assistant instance](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/Croydon/ha-addons)
+[![Add this repository to your Home Assistant instance](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/Croydon/ha-apps)
 
 
 ## Pinchflat

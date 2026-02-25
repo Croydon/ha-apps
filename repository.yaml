@@ -1,4 +1,4 @@
-# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Croydon's HA Add-On Repository
-url: "https://github.com/Croydon/ha-addons"
+# https://developers.home-assistant.io/docs/apps/repository/#repository-configuration
+name: Croydon's HA Apps Repository
+url: "https://github.com/Croydon/ha-apps"
 maintainer: Croydon <git@cr0ydon.com>
