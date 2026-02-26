@@ -1,5 +1,5 @@
 name: Picture of the Day
-version: 0.3.0.2
+version: 0.3.0.3
 slug: picture_of_the_day
 description: Picture of the Day App
 url: "https://github.com/Croydon/ha-apps"
@@ -11,10 +11,10 @@ init: false
 map:
   - type: media
     read_only: false
-    path: /cache
+    path: /app/cache
   - type: addon_config
     read_only: false
-    path: /config
+    path: /app/config
 options:
   POD_NC_URL: "https://cloud.example.com"
   POD_TIMEZONE: "Europe/Berlin"
