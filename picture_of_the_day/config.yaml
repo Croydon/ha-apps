@@ -1,11 +1,12 @@
 name: Picture of the Day
-version: 0.3.0.1
+version: 0.3.0.2
 slug: picture_of_the_day
 description: Picture of the Day App
 url: "https://github.com/Croydon/ha-apps"
 webui: http://[HOST]:[PORT:8948]
 arch:
   - aarch64
+  - amd64
 init: false
 map:
   - type: media
