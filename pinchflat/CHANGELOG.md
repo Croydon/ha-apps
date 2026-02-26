@@ -1,4 +1,4 @@
-# Pinchflat HA Apps Changelog
+# Pinchflat HA App Changelog
 
 
 ## 2025.9.26.06 (Pinchflat v2025.6.6 modified [+ Deno, FFmpeg Update])

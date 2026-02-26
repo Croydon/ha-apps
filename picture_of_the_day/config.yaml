@@ -1,0 +1,34 @@
+name: Picture of the Day
+version: 0.3.0.0a1
+slug: pod
+description: Picture of the Day App
+url: "https://github.com/Croydon/ha-apps"
+webui: http://[HOST]:[PORT:8948]
+arch:
+  - aarch64
+init: false
+map:
+  - type: media
+    read_only: false
+    path: /cache
+  - type: addon_config
+    read_only: false
+    path: /config
+options:
+  POD_NC_URL: "https://cloud.example.com"
+  POD_TIMEZONE: "Europe/Berlin"
+  POD_NC_USERNAME: ""
+  POD_NC_ACCESSTOKEN: ""
+  POD_ADMIN_USERNAME: ""
+  POD_ADMIN_PASSWORD: ""
+schema:
+  POD_NC_URL: url
+  POD_TIMEZONE: "Europe/Berlin"
+  POD_NC_USERNAME: str
+  POD_NC_ACCESSTOKEN: password
+  POD_ADMIN_USERNAME: str
+  POD_ADMIN_PASSWORD: password
+ports:
+  8948/tcp: 8948
+ports_description:
+  8948/tcp: Picture of the Day web interface
