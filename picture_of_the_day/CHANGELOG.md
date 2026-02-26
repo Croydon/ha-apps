@@ -1,5 +1,10 @@
 # Picture of the Day HA App Changelog
 
+## 0.4.0.0 (POD v0.4.0a1)
+
+  * Update upstream
+
+
 ## 0.3.0.3 (POD v0.3.0a2)
 
   * Adjust paths to try to fix mappings
