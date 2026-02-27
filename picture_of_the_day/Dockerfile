@@ -1,1 +1,1 @@
-FROM ghcr.io/croydon/picture-of-the-day:0.4.0a3
+FROM ghcr.io/croydon/picture-of-the-day:0.4.0a4
