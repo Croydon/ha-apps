@@ -1,5 +1,11 @@
 # Picture of the Day HA App Changelog
 
+
+## 0.5.0.0 (POD v0.5.0)
+
+  * Update upstream
+
+
 ## 0.4.0.6 (POD :dev)
 
   * Update path mapping
