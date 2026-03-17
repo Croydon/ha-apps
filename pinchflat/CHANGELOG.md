@@ -1,5 +1,10 @@
 # Pinchflat HA App Changelog
 
+## 2025.9.26.07 (Pinchflat v2025.6.6 modified [+ Deno, FFmpeg Update])
+
+  * Update FFmpeg https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-2026-03-17-18-27/ffmpeg-N-123524-g1c7b72cd6b-linuxarm64-gpl.tar.xz
+  * Install Deno via pip
+
 
 ## 2025.9.26.06 (Pinchflat v2025.6.6 modified [+ Deno, FFmpeg Update])
 
