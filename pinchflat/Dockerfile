@@ -1,7 +1,7 @@
 FROM ghcr.io/kieraneglin/pinchflat:v2025.6.6
 
 # Install Deno - required for YouTube downloads (See yt-dlp#14404)
-RUN pip install deno>=2.6.6
+RUN RUN curl -fsSL https://deno.land/install.sh | DENO_INSTALL=/usr/local sh -s -- -y --no-modify-path
 
 # FFmpeg (latest build that doesn't cause an illegal instruction error for some users - see #347)
 RUN apt-get update && apt-get install -y xz-utils
