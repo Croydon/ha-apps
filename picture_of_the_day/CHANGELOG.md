@@ -1,5 +1,9 @@
 # Picture of the Day HA App Changelog
 
+## 0.6.0.0 (POD v0.6.0)
+
+  * Update upstream
+
 
 ## 0.5.0.0 (POD v0.5.0)
 
