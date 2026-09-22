@@ -13,7 +13,7 @@ map:
   - type: media
     read_only: false
     path: /downloads
-  - type: addon_config
+  - type: app_config
     read_only: false
     path: /config
 options:
