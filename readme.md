@@ -13,6 +13,14 @@
   * Upstream license: [MIT](https://github.com/Croydon/picture-of-the-day/blob/main/LICENSE)
 
 
+### Matrix Burn Bot
+
+> This bot automatically deletes all messages within specific Matrix rooms after a specific time.
+
+  * [Upstream Repository](https://github.com/Croydon/matrix-burn-bot-rs)
+  * Upstream license: [MIT](https://github.com/Croydon/matrix-burn-bot-rs/blob/main/LICENSE)
+
+
 ### Zeroconf Py Script
 
 > This allows you to run an arbitrary Python script in a container with the zeroconf package installed. Usefull, if you want to advise things via mDNS on our network.
