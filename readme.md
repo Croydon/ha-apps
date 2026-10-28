@@ -13,6 +13,11 @@
   * Upstream license: [MIT](https://github.com/Croydon/picture-of-the-day/blob/main/LICENSE)
 
 
+### Zeroconf Py Script
+
+> This allows you to run an arbitrary Python script in a container with the zeroconf package installed. Usefull, if you want to advise things via mDNS on our network.
+
+
 ## Third-Party Re-packaged
 
 ### Pinchflat
