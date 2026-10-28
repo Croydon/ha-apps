@@ -1,5 +1,9 @@
 # Matrix Burn Bot HA App Changelog
 
+## 0.3.1
+
+  * Install certificates in the container
+  
 ## 0.3.0
 
   * Fix working directory issues
