@@ -1,5 +1,5 @@
 name: Matrix Burn Bot
-version: 0.3.1
+version: 0.4.0
 slug: matrix_burn_bot
 description: Matrix Burn Bot App
 url: "https://github.com/Croydon/ha-apps"
@@ -11,3 +11,13 @@ map:
   - type: app_config
     read_only: false
     path: /app/matrix-burn-bot-rs-appdata
+options:
+  HOMESERVER_URL: "https://matrix.org"
+  USER_ID: "@example:matrix.org"
+  PASSWORD: ""
+  KEY_BACKUP_PASSPHRASE: ""
+schema:
+  HOMESERVER_URL: str
+  USER_ID: str
+  PASSWORD: str
+  KEY_BACKUP_PASSPHRASE: str

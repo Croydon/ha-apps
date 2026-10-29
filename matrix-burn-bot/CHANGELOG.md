@@ -1,5 +1,9 @@
 # Matrix Burn Bot HA App Changelog
 
+## 0.4.0
+
+  * Allow JSON init via Home Assistant App options
+
 ## 0.3.1
 
   * Install certificates in the container
